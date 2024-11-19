@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-Introduction
-Features
-Installation
-Usage
-License
+- [Introduction] (#introduction)
+- [Features] (#features)
+- [Installation] (#installation)
+- [Usage] (#usage)
+- [License] (#license)
