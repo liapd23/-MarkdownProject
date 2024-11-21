@@ -4,8 +4,8 @@ Aquest és un projecte compost per diverses tasques que formen part de la pràct
 
 ## Table of Contents
 
-- Introduction
-- Features
-- Installation
-- Usage
-- License
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](installation)
+- [Usage](usage)
+- [License](license)
