@@ -12,6 +12,8 @@ Aquest és un projecte compost per diverses tasques que formen part de la pràct
 
 ### Intoduction
 
+![Project Logo](images/logo.png)
+
 ### Features
 
 ### Installation
