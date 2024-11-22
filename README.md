@@ -14,4 +14,8 @@ Aquest és un projecte compost per diverses tasques que formen part de la pràct
 
 ### Features
 
-###
+### Installation
+
+### Usage
+
+### License
