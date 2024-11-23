@@ -13,6 +13,7 @@ Aquest és un projecte compost per diverses tasques que formen part de la pràct
 ### Intoduction
 
 ![Project Logo](images/logo.png)
+Ara ja hi estic a la tasca 12, aquesta és la comprovació.
 
 ### Features
 
