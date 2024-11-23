@@ -1,0 +1,108 @@
+commit 24a5222c028ba618a8a087e004d33c30710ff949
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Fri Nov 22 09:56:17 2024 +0100
+
+    Add MIT License
+
+ LICENSE.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 27a3dd63300b21bb688621fbfaa7d9f5a7583921
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Fri Nov 22 09:36:47 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 21 ++++++++++++++++++++-
+ 1 file changed, 20 insertions(+), 1 deletion(-)
+
+commit 8a0d15bea9bd92e67422b5cc0e0164aa730bc0fc
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Fri Nov 22 09:19:08 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 2863029dda234d3988c3fca8b11e9c0d4c1ec6b3
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Fri Nov 22 08:51:33 2024 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 7513 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 6891671e6e0e93e1d9b37cde0a0c52d6bdf82c6f
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Fri Nov 22 08:43:51 2024 +0100
+
+    Add section to README
+
+ README.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit ca4902993c2c6c387af2d6c78fba4275e248a9fd
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Fri Nov 22 08:38:16 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 8ce8b67673ee2a64c4e8ea94459b64f52a472eb5
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Thu Nov 21 10:09:05 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+commit 2edbea0155c7974fe26fd61fcbe6d03ea4f2f3ca
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Tue Nov 19 10:53:19 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 12 ++++++------
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+commit 13a2360759c643323ac4254aeb270c4cc17def1e
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Tue Nov 19 10:10:26 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+commit 61f91dce99af3328a1782d08162c7dae03143320
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Tue Nov 19 09:53:30 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 0eed42bd8a6f7baeef7d2729697997a39147e640
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Tue Nov 19 09:46:03 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 5f6b9706f038b6e15b45d56b760bd1c8be779a92
+Author: juliapd23 <47598354S@iespoblenou.org>
+Date:   Tue Nov 19 09:37:36 2024 +0100
+
+    Inutial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
